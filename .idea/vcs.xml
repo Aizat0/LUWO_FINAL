@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/luwo_service1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/luwo_service2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/luwo_service3" vcs="Git" />
+  </component>
+</project>
